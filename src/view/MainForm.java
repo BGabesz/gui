@@ -153,6 +153,8 @@ public class MainForm extends javax.swing.JFrame {
                 .addContainerGap())
         );
 
+        jMenuBar1.setName("BlackJack"); // NOI18N
+
         jMenu3.setText("File");
 
         jCheckBoxMenuItem3.setSelected(true);
